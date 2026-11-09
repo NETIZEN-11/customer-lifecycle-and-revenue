@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# LFS placeholder backups
+*.lfs
+
+# Large files (tracked via LFS or excluded)
+online_retail_II.xlsx
+retail_analytics.db
+
+# Environment
+.env
+*.env
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
